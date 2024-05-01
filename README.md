@@ -64,7 +64,7 @@ user@Azure:~/ cat ~/.ssh/id_rsa.pub
 5. Fork this repository and clone it into your azure cloud shell. Adapt the URL to match your forked repo:
 
 ```bash
-user@Azure:~/ git clone git@github.com:schildner/udacity-azure-course-project2.git
+user@Azure:~/ git clone git@github.com:MahalakshmiMurugan21/udacity-azure-cicd-project.git
 ```
 
 6. Make sure the following environment variables are set and correspond to your azure account details:
@@ -95,13 +95,17 @@ user@Azure:~/ export ARM_TENANT_ID=<value from property 'tenantId'>
 1. While still in Azure cloud shell cd into the project dir:
 
 ```bash
-user@Azure:~/ cd udacity-azure-course-project2
+user@Azure:~/ cd udacity-azure-cicd-project
 ```
 
 2. Install & activate virtual environment, install dependencies:
 
 ```bash
-user@Azure:~/udacity-azure-course-project2/ make setup && make install
+user@Azure:~/udacity-azure-cicd-project/ make setup && make install
+```
+
+```bash
+user@Azure:~/udacity-azure-cicd-project/ make all
 ```
 
 3. Create a webapp and deploy code from a local workspace to the app.
