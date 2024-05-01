@@ -181,9 +181,9 @@ user@Azure:~/udacity-azure-cicd-project/  locust -f locustfile.py --headless -u 
 ## Screenshots
 
 * Project running on Azure App Service
-![Screenshot project running Azure Portal]([https://github.com/schildner/udacity-azure-course-project2/blob/main/screenshots/webapp-running-portal.png?raw=true](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/App%20running.png))
+![Screenshot project running Azure Portal](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/App%20running.png)
 
-![Screenshot project running Homepage]([https://github.com/schildner/udacity-azure-course-project2/blob/main/screenshots/webapp-running-homepage.png?raw=true](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/App%20running%20home.png))
+![Screenshot project running Homepage](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/App%20running%20home.png)
 
 * Project cloned into Azure Cloud Shell
 ![Screenshot project cloned into Azure Cloud Shell](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/github%20cloned.png)
@@ -192,7 +192,7 @@ user@Azure:~/udacity-azure-cicd-project/  locust -f locustfile.py --headless -u 
 ![Screenshot output of a test run](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/Make%20Test.png)
 
 * Output of a test run
-![Screenshot output of a test run]([https://github.com/schildner/udacity-azure-course-project2/blob/main/screenshots/cloud-shell-run-tests.png?raw=true](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/Make%20All.png))
+![Screenshot output of a test run](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/Make%20All.png)
 
 * Successful run of CD in Azure Pipelines.
 ![Screenshot stages in Azure Pipelines](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/Azure%20pipeline%20run.png)
