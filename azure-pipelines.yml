@@ -14,7 +14,7 @@ variables:
   webAppName: 'udacity-azure-cicd-appservice'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-16.04'
+  vmImageName: 'ubuntu-20.04'
 
   # Environment name
   environmentName: 'azure-devops'
@@ -22,8 +22,8 @@ variables:
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
   
-  # Python version: 3.7
-  pythonVersion: '3.7'
+  # Python version: 3.8.10
+  pythonVersion: '3.8.10'
 
 stages:
 - stage: Build
