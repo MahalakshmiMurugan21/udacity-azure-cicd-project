@@ -80,5 +80,5 @@ stages:
               azureSubscription: '$(azureServiceConnectionId)'
               appType: 'webAppLinux'
               appName: $(webAppName)
-              package: $(System.DefaultWorkingDirectory)/**/*.zip
+              package: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
           
