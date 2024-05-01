@@ -1,0 +1,12 @@
+# Original versions from starter code
+Flask==1.0.2
+pandas==0.24.2
+scikit-learn==0.20.3
+
+# Added to allow linting and tests + coverage
+pylint==2.6.0
+pytest==6.0.2
+pytest-cov==2.10.1
+locust
+
+#nbval==0.9.6           # notebook tests wont be used
