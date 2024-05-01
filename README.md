@@ -33,7 +33,7 @@ Link to Recording:
 
 * A link to a Trello board for the project: [Udacity Azure CICD Project](https://trello.com/b/mcmGyUTI/udacity-azure-cicd-project![image](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/assets/155423147/a58a61cf-db37-46d1-95fb-fe0cd575d50a)
 )
-* (https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/Udacity%20Azure%20CICD%20Project%20_%20Trello.html)
+* [Trello downloaded file](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/Udacity%20Azure%20CICD%20Project%20_%20Trello.html)
 * A link to a spreadsheet that includes the original and final project plan: [Spreadsheet on Google Drive]([https://docs.google.com/spreadsheets/d/1VvhKAVZM7I1qVYufkkjYf5vR3nBcCQtji21aupZyXik/edit?usp=sharing](https://github.com/MahalakshmiMurugan21/udacity-azure-cicd-project/blob/main/docs/Azure%20CICD%20Project%20Management.xlsx))
   * (Contains 5 sheets: Yearly Plan, Q1 Plan, Q2 Plan, Q3 Plan, Q4 Plan)
 
