@@ -24,7 +24,7 @@ This is a Project submission for Udacity Azure DevOps Course demonstrating CI/CD
 ## Demo
 
 Link to Recording:
-[Demo Video] (https://www.youtube.com/watch?v=kjCOa8fVZXY)
+[Demo Video](https://www.youtube.com/watch?v=kjCOa8fVZXY)
 
 ## Architectural Diagram
 
