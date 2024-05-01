@@ -1,7 +1,7 @@
 # Original versions from starter code
 Flask==1.0.2
-pandas==0.24.2
-scikit-learn==0.20.3
+pandas==2.1.4
+scikit-learn==0.24.2
 
 # Added to allow linting and tests + coverage
 pylint==2.6.0
